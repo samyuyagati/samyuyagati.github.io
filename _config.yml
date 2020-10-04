@@ -62,7 +62,7 @@ footer:
       link: http://weibo.com/u/YourWeiboUsername
 
 # Build settings
-theme: bay_jekyll_theme
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
